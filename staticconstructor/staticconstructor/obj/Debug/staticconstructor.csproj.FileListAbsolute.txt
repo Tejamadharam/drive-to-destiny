@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2012\Projects\staticconstructor\staticconstructor\bin\Debug\staticconstructor.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\staticconstructor\staticconstructor\bin\Debug\staticconstructor.exe
+c:\users\pc\documents\visual studio 2012\Projects\staticconstructor\staticconstructor\bin\Debug\staticconstructor.pdb
+c:\users\pc\documents\visual studio 2012\Projects\staticconstructor\staticconstructor\obj\Debug\staticconstructor.exe
+c:\users\pc\documents\visual studio 2012\Projects\staticconstructor\staticconstructor\obj\Debug\staticconstructor.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\staticconstructor\staticconstructor\obj\Debug\staticconstructor.csprojResolveAssemblyReference.cache

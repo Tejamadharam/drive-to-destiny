@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2012\Projects\biggest\biggest\bin\Debug\biggest.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\biggest\biggest\bin\Debug\biggest.exe
+c:\users\pc\documents\visual studio 2012\Projects\biggest\biggest\bin\Debug\biggest.pdb
+c:\users\pc\documents\visual studio 2012\Projects\biggest\biggest\obj\Debug\biggest.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\biggest\biggest\obj\Debug\biggest.exe
+c:\users\pc\documents\visual studio 2012\Projects\biggest\biggest\obj\Debug\biggest.pdb

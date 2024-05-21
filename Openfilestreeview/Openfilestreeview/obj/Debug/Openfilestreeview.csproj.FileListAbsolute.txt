@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2012\Projects\Openfilestreeview\Openfilestreeview\bin\Debug\Openfilestreeview.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\Openfilestreeview\Openfilestreeview\obj\Debug\Openfilestreeview.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\Openfilestreeview\Openfilestreeview\obj\Debug\Openfilestreeview.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\Openfilestreeview\Openfilestreeview\obj\Debug\Openfilestreeview.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\Openfilestreeview\Openfilestreeview\obj\Debug\Openfilestreeview.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Openfilestreeview\Openfilestreeview\bin\Debug\Openfilestreeview.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Openfilestreeview\Openfilestreeview\bin\Debug\Openfilestreeview.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Openfilestreeview\Openfilestreeview\obj\Debug\Openfilestreeview.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Openfilestreeview\Openfilestreeview\obj\Debug\Openfilestreeview.pdb

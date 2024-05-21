@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parse", "parse\parse.csproj", "{9F78B11E-8B2D-4CF1-BF98-A0D4A6C37ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F78B11E-8B2D-4CF1-BF98-A0D4A6C37ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F78B11E-8B2D-4CF1-BF98-A0D4A6C37ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F78B11E-8B2D-4CF1-BF98-A0D4A6C37ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F78B11E-8B2D-4CF1-BF98-A0D4A6C37ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

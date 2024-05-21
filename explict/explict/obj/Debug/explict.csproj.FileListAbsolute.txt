@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2012\Projects\explict\explict\bin\Debug\explict.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\explict\explict\bin\Debug\explict.exe
+c:\users\pc\documents\visual studio 2012\Projects\explict\explict\bin\Debug\explict.pdb
+c:\users\pc\documents\visual studio 2012\Projects\explict\explict\obj\Debug\explict.exe
+c:\users\pc\documents\visual studio 2012\Projects\explict\explict\obj\Debug\explict.pdb

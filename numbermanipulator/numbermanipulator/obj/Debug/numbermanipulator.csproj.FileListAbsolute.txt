@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2012\Projects\numbermanipulator\numbermanipulator\bin\Debug\numbermanipulator.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\numbermanipulator\numbermanipulator\bin\Debug\numbermanipulator.exe
+c:\users\pc\documents\visual studio 2012\Projects\numbermanipulator\numbermanipulator\bin\Debug\numbermanipulator.pdb
+c:\users\pc\documents\visual studio 2012\Projects\numbermanipulator\numbermanipulator\obj\Debug\numbermanipulator.exe
+c:\users\pc\documents\visual studio 2012\Projects\numbermanipulator\numbermanipulator\obj\Debug\numbermanipulator.pdb

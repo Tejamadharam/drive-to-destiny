@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2012\Projects\resume\resume\bin\resume.dll
+c:\users\pc\documents\visual studio 2012\Projects\resume\resume\bin\resume.pdb
+c:\users\pc\documents\visual studio 2012\Projects\resume\resume\obj\Debug\resume.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\resume\resume\obj\Debug\resume.dll
+c:\users\pc\documents\visual studio 2012\Projects\resume\resume\obj\Debug\resume.pdb

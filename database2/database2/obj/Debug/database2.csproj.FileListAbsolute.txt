@@ -1,0 +1,11 @@
+c:\users\pc\documents\visual studio 2012\Projects\database2\database2\bin\Debug\database2.exe.config
+C:\Users\pc\Documents\Visual Studio 2012\Projects\database2\database2\bin\Debug\Database1.mdf
+C:\Users\pc\Documents\Visual Studio 2012\Projects\database2\database2\bin\Debug\Database1_log.ldf
+C:\Users\pc\Documents\Visual Studio 2012\Projects\database2\database2\bin\Debug\database2.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\database2\database2\bin\Debug\database2.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\database2\database2\obj\Debug\database2.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2012\Projects\database2\database2\obj\Debug\database2.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\database2\database2\obj\Debug\database2.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\database2\database2\obj\Debug\database2.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2012\Projects\database2\database2\obj\Debug\database2.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\database2\database2\obj\Debug\database2.pdb

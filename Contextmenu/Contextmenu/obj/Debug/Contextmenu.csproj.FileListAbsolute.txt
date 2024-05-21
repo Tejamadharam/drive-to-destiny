@@ -1,0 +1,10 @@
+c:\users\pc\documents\visual studio 2012\Projects\Contextmenu\Contextmenu\bin\Debug\Contextmenu.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\Contextmenu\Contextmenu\bin\Debug\Contextmenu.exe
+c:\users\pc\documents\visual studio 2012\Projects\Contextmenu\Contextmenu\bin\Debug\Contextmenu.pdb
+c:\users\pc\documents\visual studio 2012\Projects\Contextmenu\Contextmenu\obj\Debug\Contextmenu.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\Contextmenu\Contextmenu\obj\Debug\Contextmenu.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\Contextmenu\Contextmenu\obj\Debug\Contextmenu.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\Contextmenu\Contextmenu\obj\Debug\Contextmenu.exe
+c:\users\pc\documents\visual studio 2012\Projects\Contextmenu\Contextmenu\obj\Debug\Contextmenu.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Contextmenu\Contextmenu\obj\Debug\Contextmenu.Nextpage.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Contextmenu\Contextmenu\obj\Debug\Contextmenu.csprojResolveAssemblyReference.cache

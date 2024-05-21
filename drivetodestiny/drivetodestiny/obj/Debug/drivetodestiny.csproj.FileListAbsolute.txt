@@ -1,0 +1,5 @@
+C:\Users\pc\Documents\Visual Studio 2012\Projects\drivetodestiny\drivetodestiny\bin\drivetodestiny.dll
+C:\Users\pc\Documents\Visual Studio 2012\Projects\drivetodestiny\drivetodestiny\bin\drivetodestiny.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\drivetodestiny\drivetodestiny\obj\Debug\drivetodestiny.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2012\Projects\drivetodestiny\drivetodestiny\obj\Debug\drivetodestiny.dll
+C:\Users\pc\Documents\Visual Studio 2012\Projects\drivetodestiny\drivetodestiny\obj\Debug\drivetodestiny.pdb

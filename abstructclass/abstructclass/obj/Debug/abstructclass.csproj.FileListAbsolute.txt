@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2012\Projects\abstructclass\abstructclass\bin\Debug\abstructclass.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\abstructclass\abstructclass\bin\Debug\abstructclass.exe
+c:\users\pc\documents\visual studio 2012\Projects\abstructclass\abstructclass\bin\Debug\abstructclass.pdb
+c:\users\pc\documents\visual studio 2012\Projects\abstructclass\abstructclass\obj\Debug\abstructclass.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\abstructclass\abstructclass\obj\Debug\abstructclass.exe
+c:\users\pc\documents\visual studio 2012\Projects\abstructclass\abstructclass\obj\Debug\abstructclass.pdb

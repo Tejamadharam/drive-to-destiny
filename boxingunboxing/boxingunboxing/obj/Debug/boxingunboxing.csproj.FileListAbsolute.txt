@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2012\Projects\boxingunboxing\boxingunboxing\bin\Debug\boxingunboxing.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\boxingunboxing\boxingunboxing\bin\Debug\boxingunboxing.exe
+c:\users\pc\documents\visual studio 2012\Projects\boxingunboxing\boxingunboxing\bin\Debug\boxingunboxing.pdb
+c:\users\pc\documents\visual studio 2012\Projects\boxingunboxing\boxingunboxing\obj\Debug\boxingunboxing.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\boxingunboxing\boxingunboxing\obj\Debug\boxingunboxing.exe
+c:\users\pc\documents\visual studio 2012\Projects\boxingunboxing\boxingunboxing\obj\Debug\boxingunboxing.pdb

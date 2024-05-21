@@ -1,0 +1,48 @@
+﻿@model IEnumerable< mvc.Models.emp>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <p>
+            @Html.Action("create new","create")
+        </p>
+        <table>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(Model=>Model.name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Model=>Model.doj)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Model=>Model.age)
+                </th>
+            </tr>
+            @foreach (var item in model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(Modelitem=>item.name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(Modelitem=>item.doj)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(Modelitem=>item.age)
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>

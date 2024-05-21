@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2012\Projects\recursion\recursion\bin\Debug\recursion.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\recursion\recursion\bin\Debug\recursion.exe
+c:\users\pc\documents\visual studio 2012\Projects\recursion\recursion\bin\Debug\recursion.pdb
+c:\users\pc\documents\visual studio 2012\Projects\recursion\recursion\obj\Debug\recursion.exe
+c:\users\pc\documents\visual studio 2012\Projects\recursion\recursion\obj\Debug\recursion.pdb

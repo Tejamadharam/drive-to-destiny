@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2012\Projects\copyconstructor\copyconstructor\bin\Debug\copyconstructor.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\copyconstructor\copyconstructor\bin\Debug\copyconstructor.exe
+c:\users\pc\documents\visual studio 2012\Projects\copyconstructor\copyconstructor\bin\Debug\copyconstructor.pdb
+c:\users\pc\documents\visual studio 2012\Projects\copyconstructor\copyconstructor\obj\Debug\copyconstructor.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\copyconstructor\copyconstructor\obj\Debug\copyconstructor.exe
+c:\users\pc\documents\visual studio 2012\Projects\copyconstructor\copyconstructor\obj\Debug\copyconstructor.pdb

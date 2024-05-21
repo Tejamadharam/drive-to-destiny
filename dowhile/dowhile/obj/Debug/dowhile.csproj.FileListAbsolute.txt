@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2012\Projects\dowhile\dowhile\bin\Debug\dowhile.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\dowhile\dowhile\bin\Debug\dowhile.exe
+c:\users\pc\documents\visual studio 2012\Projects\dowhile\dowhile\bin\Debug\dowhile.pdb
+c:\users\pc\documents\visual studio 2012\Projects\dowhile\dowhile\obj\Debug\dowhile.exe
+c:\users\pc\documents\visual studio 2012\Projects\dowhile\dowhile\obj\Debug\dowhile.pdb

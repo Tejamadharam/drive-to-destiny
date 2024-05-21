@@ -1,0 +1,5 @@
+C:\Users\pc\documents\visual studio 2012\Projects\aspconnection\aspconnection\bin\aspconnection.dll
+C:\Users\pc\documents\visual studio 2012\Projects\aspconnection\aspconnection\bin\aspconnection.pdb
+C:\Users\pc\documents\visual studio 2012\Projects\aspconnection\aspconnection\obj\Debug\aspconnection.csprojResolveAssemblyReference.cache
+C:\Users\pc\documents\visual studio 2012\Projects\aspconnection\aspconnection\obj\Debug\aspconnection.dll
+C:\Users\pc\documents\visual studio 2012\Projects\aspconnection\aspconnection\obj\Debug\aspconnection.pdb

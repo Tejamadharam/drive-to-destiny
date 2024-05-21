@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2012\Projects\parse\parse\bin\Debug\parse.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\parse\parse\bin\Debug\parse.exe
+c:\users\pc\documents\visual studio 2012\Projects\parse\parse\bin\Debug\parse.pdb
+c:\users\pc\documents\visual studio 2012\Projects\parse\parse\obj\Debug\parse.exe
+c:\users\pc\documents\visual studio 2012\Projects\parse\parse\obj\Debug\parse.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\parse\parse\obj\Debug\parse.csprojResolveAssemblyReference.cache

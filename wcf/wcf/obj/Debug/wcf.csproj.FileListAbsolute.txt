@@ -1,0 +1,5 @@
+C:\Users\pc\documents\visual studio 2012\Projects\wcf\wcf\bin\wcf.dll
+C:\Users\pc\documents\visual studio 2012\Projects\wcf\wcf\bin\wcf.pdb
+C:\Users\pc\documents\visual studio 2012\Projects\wcf\wcf\obj\Debug\wcf.csprojResolveAssemblyReference.cache
+C:\Users\pc\documents\visual studio 2012\Projects\wcf\wcf\obj\Debug\wcf.dll
+C:\Users\pc\documents\visual studio 2012\Projects\wcf\wcf\obj\Debug\wcf.pdb

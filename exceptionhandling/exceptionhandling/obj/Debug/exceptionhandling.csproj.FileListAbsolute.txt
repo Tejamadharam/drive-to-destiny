@@ -1,0 +1,10 @@
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.exe.config
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.exe
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.pdb
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.exe
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.exe.config
+C:\Users\pc\Documents\Visual Studio 2012\Projects\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.pdb

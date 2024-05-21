@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2012\Projects\abstractmethod\abstractmethod\bin\Debug\abstractmethod.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\abstractmethod\abstractmethod\bin\Debug\abstractmethod.exe
+c:\users\pc\documents\visual studio 2012\Projects\abstractmethod\abstractmethod\bin\Debug\abstractmethod.pdb
+c:\users\pc\documents\visual studio 2012\Projects\abstractmethod\abstractmethod\obj\Debug\abstractmethod.exe
+c:\users\pc\documents\visual studio 2012\Projects\abstractmethod\abstractmethod\obj\Debug\abstractmethod.pdb

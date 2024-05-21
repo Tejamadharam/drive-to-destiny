@@ -1,0 +1,10 @@
+c:\users\pc\documents\visual studio 2012\Projects\menus\menus\bin\Debug\menus.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\menus\menus\bin\Debug\menus.exe
+c:\users\pc\documents\visual studio 2012\Projects\menus\menus\bin\Debug\menus.pdb
+c:\users\pc\documents\visual studio 2012\Projects\menus\menus\obj\Debug\menus.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\menus\menus\obj\Debug\menus.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\menus\menus\obj\Debug\menus.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\menus\menus\obj\Debug\menus.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\menus\menus\obj\Debug\menus.exe
+c:\users\pc\documents\visual studio 2012\Projects\menus\menus\obj\Debug\menus.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\menus\menus\obj\Debug\menus.Nextpage.resources

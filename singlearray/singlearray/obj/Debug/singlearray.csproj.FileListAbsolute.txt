@@ -1,0 +1,15 @@
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\singlearray\singlearray\bin\Debug\singlearray.exe.config
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\singlearray\singlearray\bin\Debug\singlearray.exe
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\singlearray\singlearray\bin\Debug\singlearray.pdb
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\singlearray\singlearray\obj\Debug\singlearray.exe
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\singlearray\singlearray\obj\Debug\singlearray.pdb
+H:\singlearray\singlearray\bin\Debug\singlearray.exe.config
+H:\singlearray\singlearray\obj\Debug\singlearray.exe
+H:\singlearray\singlearray\obj\Debug\singlearray.pdb
+H:\singlearray\singlearray\bin\Debug\singlearray.exe
+H:\singlearray\singlearray\bin\Debug\singlearray.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\singlearray\singlearray\bin\Debug\singlearray.exe.config
+C:\Users\pc\Documents\Visual Studio 2012\Projects\singlearray\singlearray\obj\Debug\singlearray.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\singlearray\singlearray\obj\Debug\singlearray.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\singlearray\singlearray\bin\Debug\singlearray.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\singlearray\singlearray\bin\Debug\singlearray.pdb

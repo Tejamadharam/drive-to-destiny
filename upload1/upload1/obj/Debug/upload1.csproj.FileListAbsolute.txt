@@ -1,0 +1,5 @@
+C:\Users\pc\Documents\Visual Studio 2012\Projects\upload1\upload1\bin\upload1.dll
+C:\Users\pc\Documents\Visual Studio 2012\Projects\upload1\upload1\bin\upload1.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\upload1\upload1\obj\Debug\upload1.dll
+C:\Users\pc\Documents\Visual Studio 2012\Projects\upload1\upload1\obj\Debug\upload1.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\upload1\upload1\obj\Debug\upload1.csprojResolveAssemblyReference.cache

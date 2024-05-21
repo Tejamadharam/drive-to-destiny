@@ -1,0 +1,12 @@
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\delegate\delegate\bin\Debug\@delegate.exe.config
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\delegate\delegate\bin\Debug\@delegate.exe
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\delegate\delegate\bin\Debug\@delegate.pdb
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\delegate\delegate\obj\Debug\delegate.csprojResolveAssemblyReference.cache
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\delegate\delegate\obj\Debug\@delegate.exe
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\delegate\delegate\obj\Debug\@delegate.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\delegate\delegate\bin\Debug\@delegate.exe.config
+C:\Users\pc\Documents\Visual Studio 2012\Projects\delegate\delegate\obj\Debug\@delegate.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\delegate\delegate\obj\Debug\@delegate.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\delegate\delegate\bin\Debug\@delegate.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\delegate\delegate\bin\Debug\@delegate.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\delegate\delegate\obj\Debug\delegate.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2012\Projects\fileio\fileio\bin\Debug\fileio.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\fileio\fileio\bin\Debug\fileio.exe
+c:\users\pc\documents\visual studio 2012\Projects\fileio\fileio\bin\Debug\fileio.pdb
+c:\users\pc\documents\visual studio 2012\Projects\fileio\fileio\obj\Debug\fileio.exe
+c:\users\pc\documents\visual studio 2012\Projects\fileio\fileio\obj\Debug\fileio.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\fileio\fileio\obj\Debug\fileio.csprojResolveAssemblyReference.cache

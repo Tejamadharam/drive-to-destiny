@@ -1,0 +1,9 @@
+c:\Users\pc\documents\visual studio 2012\Projects\wcf\second\bin\Debug\second.exe.config
+c:\Users\pc\documents\visual studio 2012\Projects\wcf\second\bin\Debug\second.exe
+c:\Users\pc\documents\visual studio 2012\Projects\wcf\second\bin\Debug\second.pdb
+c:\Users\pc\documents\visual studio 2012\Projects\wcf\second\obj\Debug\second.csprojResolveAssemblyReference.cache
+c:\Users\pc\documents\visual studio 2012\Projects\wcf\second\obj\Debug\second.Form1.resources
+c:\Users\pc\documents\visual studio 2012\Projects\wcf\second\obj\Debug\second.Properties.Resources.resources
+c:\Users\pc\documents\visual studio 2012\Projects\wcf\second\obj\Debug\second.csproj.GenerateResource.Cache
+c:\Users\pc\documents\visual studio 2012\Projects\wcf\second\obj\Debug\second.exe
+c:\Users\pc\documents\visual studio 2012\Projects\wcf\second\obj\Debug\second.pdb

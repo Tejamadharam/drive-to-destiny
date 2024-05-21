@@ -1,0 +1,18 @@
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\multiarray\multiarray\bin\Debug\multiarray.exe.config
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\multiarray\multiarray\bin\Debug\multiarray.exe
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\multiarray\multiarray\bin\Debug\multiarray.pdb
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\multiarray\multiarray\obj\Debug\multiarray.exe
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\multiarray\multiarray\obj\Debug\multiarray.pdb
+C:\Users\SW I- 6.1\Documents\Visual Studio 2012\Projects\multiarray\multiarray\obj\Debug\multiarray.csprojResolveAssemblyReference.cache
+H:\multiarray\multiarray\bin\Debug\multiarray.exe.config
+H:\multiarray\multiarray\obj\Debug\multiarray.exe
+H:\multiarray\multiarray\obj\Debug\multiarray.pdb
+H:\multiarray\multiarray\bin\Debug\multiarray.exe
+H:\multiarray\multiarray\bin\Debug\multiarray.pdb
+H:\multiarray\multiarray\obj\Debug\multiarray.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2012\Projects\multiarray\multiarray\bin\Debug\multiarray.exe.config
+C:\Users\pc\Documents\Visual Studio 2012\Projects\multiarray\multiarray\obj\Debug\multiarray.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\multiarray\multiarray\obj\Debug\multiarray.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\multiarray\multiarray\bin\Debug\multiarray.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\multiarray\multiarray\bin\Debug\multiarray.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\multiarray\multiarray\obj\Debug\multiarray.csprojResolveAssemblyReference.cache

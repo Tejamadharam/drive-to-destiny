@@ -1,0 +1,21 @@
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\array\array\bin\Debug\array.exe.config
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\array\array\bin\Debug\array.exe
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\array\array\bin\Debug\array.pdb
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\array\array\obj\Debug\array.csprojResolveAssemblyReference.cache
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\array\array\obj\Debug\array.exe
+c:\users\sw i- 6.1\documents\visual studio 2012\Projects\array\array\obj\Debug\array.pdb
+F:\ \array\array\bin\Debug\array.exe.config
+F:\ \array\array\obj\Debug\array.exe
+F:\ \array\array\obj\Debug\array.pdb
+H:\array\array\bin\Debug\array.exe.config
+H:\array\array\obj\Debug\array.exe
+H:\array\array\obj\Debug\array.pdb
+H:\array\array\bin\Debug\array.exe
+H:\array\array\bin\Debug\array.pdb
+H:\array\array\obj\Debug\array.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2012\Projects\array\array\bin\Debug\array.exe.config
+C:\Users\pc\Documents\Visual Studio 2012\Projects\array\array\obj\Debug\array.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\array\array\obj\Debug\array.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\array\array\bin\Debug\array.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\array\array\bin\Debug\array.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\array\array\obj\Debug\array.csprojResolveAssemblyReference.cache
